@@ -2,13 +2,11 @@
 
 ## About Aim Fishery
 
----
 
 발로란트를 하는 유저 중 자신에게 맞는 감도를 찾고 싶지만, 게임하는 시간이 아까운 유저들을 위한 어플리케이션 입니다. 컴퓨터 비전을 기반으로 적을 감지하고, 실시간으로 유저의 사격 경향을 분석하여 마우스 감도를 추천해 주는 어플리케이션 입니다.
 
 ## Installation
 
----
 
 발로란트 용으로 학습된 가중치를 다운로드 한다.
 
@@ -58,8 +56,6 @@ https://drive.google.com/file/d/1emXH3PB8hMKiHptqJkrclRM3cFUTTV3q/view?usp=shari
 
 ## Usage
 
----
-
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled.png)
 
 1. 회원가입
@@ -70,35 +66,35 @@ https://drive.google.com/file/d/1emXH3PB8hMKiHptqJkrclRM3cFUTTV3q/view?usp=shari
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%202.png)
 
-1. 로그인
+2. 로그인
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%203.png)
 
-1. 주의사항을 읽고 넘어간다.
+3. 주의사항을 읽고 넘어간다.
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%204.png)
 
-1. 녹화 버튼을 클릭하고 게임을 계속 진행한다.
-    1. 감도를 추천할 충분한 데이터가 쌓이기 전에는 회색 버튼이며, 감도를 추천할 충분한 데이터가 쌓이면 빨간 버튼으로 활성화 된다.
+4. 녹화 버튼을 클릭하고 게임을 계속 진행한다.
+    a. 감도를 추천할 충분한 데이터가 쌓이기 전에는 회색 버튼이며, 감도를 추천할 충분한 데이터가 쌓이면 빨간 버튼으로 활성화 된다.
     
     ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%205.png)
     
     ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%206.png)
     
-2. 정보 수집이 완료되어 버튼이 활성화되면 클릭하여 종료할 수 있다.
+5. 정보 수집이 완료되어 버튼이 활성화되면 클릭하여 종료할 수 있다.
     
     ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%207.png)
     
-3. 종료 버튼 클릭시 결과 화면으로 이동하며, 추천된 마우스 감도 값을 확인할 수 있다.
+6. 종료 버튼 클릭시 결과 화면으로 이동하며, 추천된 마우스 감도 값을 확인할 수 있다.
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%208.png)
 
-1. 메인화면으로 이동하기, 프로그램 종료하기를 클릭하면 감도 변경 유무를 묻는 팝업창이 나온다.
-    1. 감도를 바꾼다면, “예”를 클릭한다.
-    2. 감도를 바꾸지 않는다면, “아니오”를 클릭한다.
+7. 메인화면으로 이동하기, 프로그램 종료하기를 클릭하면 감도 변경 유무를 묻는 팝업창이 나온다.
+    a. 감도를 바꾼다면, “예”를 클릭한다.
+    b. 감도를 바꾸지 않는다면, “아니오”를 클릭한다.
     
     ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%209.png)
     
-2. 내정보 화면에서는 최근 감도 추천 내역이 포함된 내정보 확인 및 수정을 할 수 있다.
+8. 내정보 화면에서는 최근 감도 추천 내역이 포함된 내정보 확인 및 수정을 할 수 있다.
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%2010.png)
