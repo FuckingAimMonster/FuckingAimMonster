@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1emXH3PB8hMKiHptqJkrclRM3cFUTTV3q/view?usp=shari
 
 ## Usage
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/90972240/206857085-383000c9-0981-46c0-873e-f8d933b03cc2.png)
 
 1. 회원가입
     1. 아이디, 닉네임, 비밀번호, 비밀번호 확인 입력
@@ -64,37 +64,37 @@ https://drive.google.com/file/d/1emXH3PB8hMKiHptqJkrclRM3cFUTTV3q/view?usp=shari
 
 ![Untitled 1](https://user-images.githubusercontent.com/90972240/206857030-2285e94b-96c6-4bbc-b96b-d35f17b27d89.png)
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/90972240/206857095-1d3d0dd8-aef3-420d-b732-d8172fe54b28.png)
 
 2. 로그인
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/90972240/206857099-69c5ebdd-7788-4ca4-9a11-054307bc5dda.png)
 
 3. 주의사항을 읽고 넘어간다.
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/90972240/206857103-34f60e0b-d086-4a26-9895-aee735f14c83.png)
 
 4. 녹화 버튼을 클릭하고 게임을 계속 진행한다.
     a. 감도를 추천할 충분한 데이터가 쌓이기 전에는 회색 버튼이며, 감도를 추천할 충분한 데이터가 쌓이면 빨간 버튼으로 활성화 된다.
     
-    ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%205.png)
+    ![Untitled 5](https://user-images.githubusercontent.com/90972240/206857115-53d9a55d-a893-4531-93f1-1e6116a4fd96.png)
     
-    ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%206.png)
+    ![Untitled 6](https://user-images.githubusercontent.com/90972240/206857120-eda0d598-036e-4226-83e4-8c46887860cc.png)
     
 5. 정보 수집이 완료되어 버튼이 활성화되면 클릭하여 종료할 수 있다.
     
-    ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%207.png)
+    ![Untitled 7](https://user-images.githubusercontent.com/90972240/206857131-7c0cf78c-1147-4ae2-9c85-203d5c964c48.png)
     
 6. 종료 버튼 클릭시 결과 화면으로 이동하며, 추천된 마우스 감도 값을 확인할 수 있다.
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/90972240/206857134-488ed59e-acb8-4097-b8e2-725f6552db5c.png)
 
 7. 메인화면으로 이동하기, 프로그램 종료하기를 클릭하면 감도 변경 유무를 묻는 팝업창이 나온다.
     a. 감도를 바꾼다면, “예”를 클릭한다.
     b. 감도를 바꾸지 않는다면, “아니오”를 클릭한다.
     
-    ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%209.png)
+    ![Untitled 9](https://user-images.githubusercontent.com/90972240/206857139-47b2ebd1-6cef-4913-abf3-6e7867e4bed0.png)
     
 8. 내정보 화면에서는 최근 감도 추천 내역이 포함된 내정보 확인 및 수정을 할 수 있다.
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/90972240/206857145-4b82346b-4472-47b1-a48e-48dd33d603a9.png)
