@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1emXH3PB8hMKiHptqJkrclRM3cFUTTV3q/view?usp=shari
     1. 아이디, 닉네임, 비밀번호, 비밀번호 확인 입력
     2. 마우스 DPI와 인 게임 감도 입력
 
-![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/90972240/206857030-2285e94b-96c6-4bbc-b96b-d35f17b27d89.png)
 
 ![Untitled](Aim%20Fishery%209e16b9961253499997d843e15ee4ca70/Untitled%202.png)
 
